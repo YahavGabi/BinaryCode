@@ -1,7 +1,5 @@
 import hashlib
-
 target_hash = "3cc6520a6890b92fb55a6b3d657fd1f6" 
-
 def bruteforce(hash):
     for i in range(1000000):
         password = f"{i:06d}"
