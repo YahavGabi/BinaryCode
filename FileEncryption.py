@@ -12,4 +12,4 @@ if __name__ == "__main__":
     filename = input("Enter File Name: ")
     key = 5 # המפתח להצפנה/פענוח
     encrypt_decrypt_xor(filename, key)
-    #תרגיל הצפנת קובץ
+    
